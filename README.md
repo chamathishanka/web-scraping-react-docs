@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React Docs Scraper
 
 ## Overview
